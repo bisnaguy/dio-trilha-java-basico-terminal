@@ -6,7 +6,7 @@ public class ContaTerminal {
         // TODO Conhecer e importar a classe Scanner
         // Exibir as mensagens para o nosso usuário
         // Obter pela classe Scanner os valores digitados no terminal
-        // Exibi a mensagem conta criada
+        // Exibir a mensagem conta criada
         Scanner texto = new Scanner(System.in);
         texto.useLocale(Locale.US);
 
